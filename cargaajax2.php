@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><title>Buscador</title>
+<head><title>Buscador de peces</title>
 <link rel="stylesheet" type="text/css" href="styles/basic.css">
 <meta charset="utf-8">
 <style type="text/css">
