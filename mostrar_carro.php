@@ -1,8 +1,7 @@
 <?php require_once("general/session.php");?>
 <?php verificar_sesion(); ?>
 <?php require_once("general/connection_db.php"); ?>
-<?php require_once("general/funciones.php"); ?>
-<?php require_once("includes/carro/gestion_carro_compra.php"); ?>
+
 
 <?php
 	 if(isset($_POST['oculto'])) {
